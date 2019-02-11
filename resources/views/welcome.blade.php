@@ -13,10 +13,10 @@
         <style>
             html, body {
                 background-color: #fff;
-                color: #636b6f;
+                color: #636b6k;
                 font-family: 'Nunito', sans-serif;
-                font-weight: 200;
-                height: 100vh;
+                font-weight: 400;
+                height: 200vh;
                 margin: 0;
             }
 
@@ -36,7 +36,7 @@
 
             .top-right {
                 position: absolute;
-                right: 10px;
+                right: 100px;
                 top: 18px;
             }
 
@@ -49,10 +49,10 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: #ff451a24;
                 padding: 0 25px;
-                font-size: 13px;
-                font-weight: 600;
+                font-size: 20px;
+                font-weight: 700;
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
@@ -81,16 +81,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    cool
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">when</a>
+                    <a href="https://laracasts.com">where</a>
+                    <a href="https://github.com/laravel/laravel">how</a>
                 </div>
             </div>
         </div>
